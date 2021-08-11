@@ -1,0 +1,6 @@
+#
+#Fri Jul 30 23:22:53 IST 2021
+com.luv2code.aopdemo.dao.AccountDAO=org.springframework.stereotype.Component
+com.luv2code.aopdemo.aspect.MyDemoLoggingAspect=org.springframework.stereotype.Component
+com.luv2code.aopdemo.dao.MembershipDAO=org.springframework.stereotype.Component
+com.luv2code.aopdemo.DemoConfig=org.springframework.stereotype.Component

@@ -1,0 +1,7 @@
+#
+#Tue Jul 27 10:32:32 IST 2021
+com.luv2code.springdemo.mvc.CustomerController=org.springframework.stereotype.Component
+com.luv2code.springdemo.mvc.SillyController=org.springframework.stereotype.Component
+com.luv2code.springdemo.mvc.StudentController=org.springframework.stereotype.Component
+com.luv2code.springdemo.mvc.HomeController=org.springframework.stereotype.Component
+com.luv2code.springdemo.mvc.HelloWorldController=org.springframework.stereotype.Component

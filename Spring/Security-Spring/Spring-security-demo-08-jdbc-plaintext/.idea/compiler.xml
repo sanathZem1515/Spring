@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-security-demo-02-basic-security" />
+        <module name="Spring-security-demo-08-jdbc-plaintext" />
+        <module name="Spring-security-demo-05-logout" />
+        <module name="Spring-security-demo-07-user-roles" />
+        <module name="Spring-security-demo-06-csrf" />
+        <module name="Spring-security" />
+        <module name="Spring-security-demo-04-bootsrap-login-form" />
+        <module name="Spring-security-demo-03-custom-login-form" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

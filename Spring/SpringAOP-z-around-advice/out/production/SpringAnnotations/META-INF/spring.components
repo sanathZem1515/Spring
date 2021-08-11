@@ -1,0 +1,9 @@
+#
+#Sat Jul 31 03:08:00 IST 2021
+com.luv2code.aopdemo.aspect.MyApiAnalysticsAspect=org.springframework.stereotype.Component
+com.luv2code.aopdemo.dao.AccountDAO=org.springframework.stereotype.Component
+com.luv2code.aopdemo.aspect.MyCloudAsyncAspect=org.springframework.stereotype.Component
+com.luv2code.aopdemo.aspect.MyDemoLoggingAspect=org.springframework.stereotype.Component
+com.luv2code.aopdemo.dao.MembershipDAO=org.springframework.stereotype.Component
+com.luv2code.aopdemo.service.TrafficFortuneservice=org.springframework.stereotype.Component
+com.luv2code.aopdemo.DemoConfig=org.springframework.stereotype.Component

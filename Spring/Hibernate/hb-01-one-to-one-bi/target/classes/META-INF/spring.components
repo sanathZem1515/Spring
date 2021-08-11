@@ -1,0 +1,5 @@
+#
+#Wed Jul 28 08:17:30 IST 2021
+com.luv2code.hibernate.demo.entity.InstructorDetail=javax.persistence.Entity,javax.persistence.Table
+com.luv2code.hibernate.demo.entity.Instructor=javax.persistence.Entity,javax.persistence.Table
+com.luv2code.hibernate.demo.entity.Student=javax.persistence.Entity,javax.persistence.Table
